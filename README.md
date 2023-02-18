@@ -27,3 +27,8 @@ https://www.npmjs.com/package/http-server
 https://browsersync.io/docs
 
 https://www.npmjs.com/package/lite-server
+
+Development
+
+$ npm i
+$ npm run dev
