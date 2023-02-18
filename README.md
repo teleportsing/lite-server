@@ -27,3 +27,5 @@ https://github.com/johnpapa/lite-server
 https://www.npmjs.com/package/http-server
 
 https://browsersync.io/docs
+
+https://www.npmjs.com/package/lite-server
