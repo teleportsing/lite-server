@@ -22,8 +22,6 @@ npm install http-server
 
 https://github.com/johnpapa/lite-server
 
-https://github.com/johnpapa/lite-server
-
 https://www.npmjs.com/package/http-server
 
 https://browsersync.io/docs
