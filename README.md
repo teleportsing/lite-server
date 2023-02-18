@@ -30,5 +30,4 @@ https://www.npmjs.com/package/lite-server
 
 Development
 
-$ npm i
 $ npm run dev
