@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "eslint *.js lib/*.js && istanbul cover _mocha -- -R spec",
-    "dev": "lite-server"
+    "start": "lite-server",
+    "dev": "browser-sync --port 3999 start --server --files \"*.html, css/*.css, public/*.html, js/*.js\""
   },
   "repository": {
     "type": "git",

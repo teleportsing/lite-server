@@ -3,6 +3,7 @@ module.exports = {
   logLevel: "silent",
   "port": 8000,
   "files": ["./src/**/*.{html,htm,css,js}"],
+  "notify": true,
   server: {
     middleware: {
       // overrides the second middleware default with new settings
